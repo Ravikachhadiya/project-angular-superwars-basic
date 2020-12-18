@@ -26,9 +26,9 @@ export class AppComponent implements OnInit {
     'Black Cat',
     'Volverine',
     'Thor',
-    'Slayer'
-    // 'Vader',
-    // 'Slingo'
+    'Slayer',
+    'Vader',
+    'Slingo'
   ];
 
   ngOnInit() {
